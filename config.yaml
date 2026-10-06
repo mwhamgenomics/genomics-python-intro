@@ -66,7 +66,7 @@ contact: 'murray.wham@ed.ac.uk'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.Rmd
+- introduction.md
 - introduction-to-the-example-data.md
 - working-with-tabular-data-with-pandas.md
 - data-visualisation-with-matplotlib.md

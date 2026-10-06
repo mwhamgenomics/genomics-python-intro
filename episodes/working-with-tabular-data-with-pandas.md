@@ -117,7 +117,7 @@ read_csv('combined_tidy_vcf.csv')
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Reviewing the Pandas `read_csv()` function
+## Reviewing the Pandas `read_csv()` function
 
 Before using `read_csv()` further, let's read up on it and answer the following questions.
 
@@ -436,7 +436,7 @@ it should use it automatically.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Exercise: Putting it all together - data frames
+## Putting it all together - data frames
 
 Use `read_excel()` to read the file 'Ecoli_metadata.xlsx' into a dataframe, and answer the following questions:
 

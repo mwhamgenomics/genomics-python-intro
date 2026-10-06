@@ -164,9 +164,9 @@ your plot.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Challenge
+## Plotting mapping quality
 
-Use what you just learned to create a scatter plot of mapping quality (`MQ`) over
+Use what you have just learned to create a scatter plot of mapping quality (`MQ`) over
 position (`POS`) with the samples showing in different colors. Make sure to give your plot
 relevant axis labels.
 
@@ -250,7 +250,9 @@ that can be called in the same way as the top-level pyplot equivalents.
 
 ## Repetitive code
 
-The code for creating these plots per sample looks quite repetitive. What are some of the potential results of this?
+
+The code for creating these plots per sample has repetitive elements. What are some
+potential consequences of this, e.g. if we try to run it on other data?
 
 :::::::::::::::  solution
 

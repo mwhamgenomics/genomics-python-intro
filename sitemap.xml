@@ -1,69 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://template-source.github.io/lesson-example/404.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/404.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/CODE_OF_CONDUCT.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/LICENSE.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/citation.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/aio.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/data-visualisation-with-matplotlib.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/citation.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/index.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/data-visualisation-with-matplotlib.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/404.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/images.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/index.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/LICENSE.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/citation.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/data-visualisation-with-matplotlib.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/index.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/introduction-to-the-example-data.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/citation.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/introduction.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/data-visualisation-with-matplotlib.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/profiles.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/reference.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/instructor/working-with-tabular-data-with-pandas.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/introduction-to-the-example-data.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/introduction-to-the-example-data.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/introduction.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/introduction.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/profiles.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/reference.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://template-source.github.io/lesson-example/working-with-tabular-data-with-pandas.html</loc>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor/working-with-tabular-data-with-pandas.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/introduction-to-the-example-data.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://mwhamgenomics.github.io/genomics-python-intro/working-with-tabular-data-with-pandas.html</loc>
   </url>
 </urlset>

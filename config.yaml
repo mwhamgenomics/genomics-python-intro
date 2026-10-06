@@ -17,13 +17,13 @@ carpentry: 'incubator'
 # carpentry_description: "Custom Carpentry"
 
 # Overall title for pages.
-title: 'Lesson Title'
+title: 'Introduction to Python for Genomics'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2026-09-14'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'software, data, lesson, The Carpentries, Python, Pandas, Matplotlib'
 
 # Life cycle stage of the lesson
 # refer to <https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html> for details
@@ -40,7 +40,7 @@ source: 'https://example.com/template-source/lesson-example'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'murray.wham@ed.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -67,6 +67,9 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- introduction-to-the-example-data.md
+- working-with-tabular-data-with-pandas.md
+- data-visualisation-with-matplotlib.md
 
 # Information for Learners
 learners: 

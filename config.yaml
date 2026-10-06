@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://example.com/template-source/lesson-example'
+source: 'https://github.com/mwhamgenomics/genomics-python-intro'
 
 # Default branch of your lesson
 branch: 'main'
